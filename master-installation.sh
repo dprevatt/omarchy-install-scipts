@@ -4,8 +4,8 @@
 ./apps/bitwarden-install.sh
 # Stow
 ./apps/stow-install.sh
-# VSCode
-./apps/vscode-install.sh
+# VSCode - Not Needed
+#./apps/vscode-install.sh
 # Zen Browser
 ./apps/zen-browser-install.sh
 # Tick-Tick
