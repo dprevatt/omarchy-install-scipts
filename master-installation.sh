@@ -14,3 +14,5 @@
 ./apps/freetube-install.sh
 # Warp-Terminal
 ./apps/warp-terminal-install.sh
+# JetBrains Toolbox
+./apps/jetbrains-toolbox-install.sh
